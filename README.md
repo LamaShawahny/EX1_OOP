@@ -1,4 +1,4 @@
-#Elevator - Assignment 1
+Elevator - Assignment 1
 =======================
 
 Task:
@@ -20,9 +20,6 @@ This class represents the Elevator in the building. its id ,speed floors...
   def goto(self, floor): it moves the elevator to the given floor
   other get functions for the properties that I mentioned above.
 
- 
-#### ElevatorControlSystem.python
-This class manages all the Elevators available in the system. Its responsible for managing Elevators' statuses and scheduling the pickUp requests from users on various floors of the building.
 
 #### CallForElevator.py 
  properties :
