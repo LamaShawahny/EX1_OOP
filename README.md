@@ -116,6 +116,11 @@ def AllocateAll(self):
     * Case III -   No elevators were found eligible to serve the request. Can happen if all the elevators are under MAINTENANCE
                    return false as we could not schedule the request to any of the elevators in the system.
 ```
+#### Sample of reasults:
+-------------------------------------
+
+![image](https://user-images.githubusercontent.com/74476764/142683564-a2bdb2a4-5081-468b-8541-2e6c150f3219.png)
+
 #### Sources:
 -------------------------------------
 
