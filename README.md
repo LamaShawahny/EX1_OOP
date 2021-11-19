@@ -1,6 +1,8 @@
 Elevator - Assignment 1
 =======================
 
+![elevator](https://user-images.githubusercontent.com/74476764/142673823-bd2ec62a-c33a-4f27-bbf7-6b972d471f96.gif)
+
 Task:
 -----
 Design and implement an elevator control system in PYTHON .
