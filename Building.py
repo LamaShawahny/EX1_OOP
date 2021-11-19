@@ -1,4 +1,4 @@
-# this class represnt the building that we want to allocate the calls in
+# this class represnts the building that we want to allocate the calls in
 
 from Elevator import elevator
 class Building :
