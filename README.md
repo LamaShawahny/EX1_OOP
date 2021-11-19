@@ -9,7 +9,7 @@ Design and implement an elevator control system in PYTHON .
 
 Design:
 -------
-The project has 4 main classes 'Elevator.java' and 'ElevatorControlSystem.java'.
+The project has 4 main classes 'Elevator.py','CallForElevator.py','Building.py','ElevatorAlgo.py'.
 
 #### Elevator.py
 This class represents the Elevator in the building. its id ,speed floors...
