@@ -5,7 +5,7 @@ Elevator - Assignment 1
 
 Task:
 -----
-Design and implement an elevator control system in PYTHON .
+Design and implement an elevator Offline control system in PYTHON .
 
 Design:
 -------
@@ -116,3 +116,13 @@ def AllocateAll(self):
     * Case III -   No elevators were found eligible to serve the request. Can happen if all the elevators are under MAINTENANCE
                    return false as we could not schedule the request to any of the elevators in the system.
 ```
+#### Sources:
+-------------------------------------
+
+https://github.com/matiassingers/awesome-readme
+https://en.wikipedia.org/wiki/Elevator_algorithm
+https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-for-the-ele...
+https://stackoverflow.com/questions/69943231/offline-elevator-algorithm
+Assignment 0 
+
+  
