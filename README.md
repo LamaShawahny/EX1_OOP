@@ -12,11 +12,11 @@ The project has 4 main classes 'Elevator.java' and 'ElevatorControlSystem.java'.
 #### Elevator.py
 This class represents the Elevator in the building. its id ,speed floors...
 
-  properties :
+properties :
       id, speed, minFloor, maxFloor , closeTime , openTime , startTime , stopTime.
-  constructor:
+constructor:
     def __init__(self, id, speed, minFloor, maxFloor , closeTime , openTime , startTime , stopTime)
-  methods:
+methods:
   def goto(self, floor): it moves the elevator to the given floor
   other get functions for the properties that I mentioned above.
 
