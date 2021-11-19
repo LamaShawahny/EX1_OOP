@@ -119,10 +119,10 @@ def AllocateAll(self):
 #### Sources:
 -------------------------------------
 
-https://github.com/matiassingers/awesome-readme
-https://en.wikipedia.org/wiki/Elevator_algorithm
-https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-for-the-ele...
-https://stackoverflow.com/questions/69943231/offline-elevator-algorithm
-Assignment 0 
+1). https://github.com/matiassingers/awesome-readme
+2). https://en.wikipedia.org/wiki/Elevator_algorithm
+3). https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-for-the-ele...
+4). https://stackoverflow.com/questions/69943231/offline-elevator-algorithm
+5).  Assignment 0 
 
   
