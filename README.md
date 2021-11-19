@@ -91,6 +91,7 @@ def AllocateAll(self):
                             self._CalList.remove(call2)
             self._building.getElevator(ans).goto(my_dist)
 ```
+                                    ![algo](https://user-images.githubusercontent.com/74476764/142674113-bb6eec2d-f6b1-4019-8930-1eefdbb5c339.gif)
 
 Algorithm:
 -------------------------------------
