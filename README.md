@@ -94,7 +94,8 @@ def AllocateAll(self):
   
     
 
-#### Algorithm: 
+#### Algorithm:  ![algo](https://user-images.githubusercontent.com/74476764/142674194-642e5adf-897e-410b-b0d9-8cd4d7acf64b.gif) 
+
 
      ![algo](https://user-images.githubusercontent.com/74476764/142674194-642e5adf-897e-410b-b0d9-8cd4d7acf64b.gif)
 
