@@ -1,7 +1,7 @@
 Elevator - Assignment 1
 =======================
-## Introduction[![](./docs/img/pin.svg)](#introduction)
-Task:[![](./docs/img/pin.svg)](#Task)
+
+Task:
 -----
 Design and implement an elevator control system in PYTHON .
 
